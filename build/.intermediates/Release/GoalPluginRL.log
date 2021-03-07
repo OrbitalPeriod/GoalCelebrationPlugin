@@ -1,0 +1,10 @@
+﻿  GoalPluginRL.cpp
+  GoalPluginRLGUI.cpp
+     Creating library E:\Coding\Projects\GoalPluginRL\plugins\GoalPluginRL.lib and object E:\Coding\Projects\GoalPluginRL\plugins\GoalPluginRL.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 769 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GoalPluginRL.vcxproj -> E:\Coding\Projects\GoalPluginRL\plugins\GoalPluginRL.dll
+  18:28:00 [INFO] Copying plugin to C:\Users\Thomas\AppData\Roaming\bakkesmod\bakkesmod/plugins\GoalPluginRL.dll
+  18:28:00 [INFO] Done
